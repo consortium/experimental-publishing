@@ -6,19 +6,19 @@ Where: The Grass, DMLL (3rd floor Lanchester Library), Coventry University<br>
 When: 28th June 2-5pm
 
 ## Workshop lead:
-Simon Worthington (Open Science Lab, TIB – German National Library of Science and Technology)</ br>
+Simon Worthington (Open Science Lab, TIB)<br>
 Jurij Smrke (Coventry University)
 
 ## Invited Attendants:
-Janneke Adema (Coventry University)
-Jonathan Shaw (Coventry University)
-Kamila Kuc (Coventry University)
-Kaja Marczewska (Coventry University/iam)
-Whitney Trettien (thresholds)
-Frances McDonald (thresholds)
-Pauline van Mourik-Broekman (Mute/MayDay Rooms)
-Eva Weinmayr (AND Publishing)
-Lucy Barnes/Martin Keegan (Open Book Publishers)
+Janneke Adema (Coventry University)<br>
+Jonathan Shaw (Coventry University)<br>
+Kamila Kuc (Coventry University)<br>
+Kaja Marczewska (Coventry University/iam)<br>
+Whitney Trettien (thresholds)<br>
+Frances McDonald (thresholds)<br>
+Pauline van Mourik-Broekman (Mute/MayDay Rooms)<br>
+Eva Weinmayr (AND Publishing)<br>
+Lucy Barnes/Martin Keegan (Open Book Publishers)<br>
 Gabriela Mendez Cota (Culture Machine)
 
 This half-day workshop will bring together academics and artists with experience and an interest in experimental publishing, both with respect to the materiality of our publications and the concepts and relations that structure them (i.e. authorship, ownership, stability). It has a 3-fold goal:
