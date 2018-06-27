@@ -1,5 +1,7 @@
 # Workshop Description: Experimental Publishing and Collaborative Bibliographies 
 
+[#experimental publishing]
+
 Radical Open Access II – The Ethics of Care http://radicaloa.co.uk/conferences/roa2/ 
 
 Where: The Grass, DMLL (3rd floor Lanchester Library), Coventry University<br>
