@@ -2,7 +2,7 @@
 
 Radical Open Access II – The Ethics of Care http://radicaloa.co.uk/conferences/roa2/
 
-Where: The Grass, DMLL (3rd floor Lanchester Library), Coventry University</ br>
+Where: The Grass, DMLL (3rd floor Lanchester Library), Coventry University<br>
 When: 28th June 2-5pm
 
 ## Workshop lead:
