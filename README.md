@@ -2,6 +2,8 @@
 
 \#experimentalpublishing
 
+Using Markdown - [cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat: 
+
 Radical Open Access II – The Ethics of Care http://radicaloa.co.uk/conferences/roa2/ 
 
 Where: The Grass, DMLL (3rd floor Lanchester Library), Coventry University<br>
