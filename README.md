@@ -6,7 +6,7 @@ Where: The Grass, DMLL (3rd floor Lanchester Library), Coventry University<br>
 When: 28th June 2-5pm, 2018
 
 ## Workshop lead:
-Simon Worthington (Open Science Lab, TIB)<br>
+Simon Worthington (Generation R: Open Science Lab, TIB)<br>
 Jurij Smrke (Coventry University)
 
 ## Invited Attendants:
