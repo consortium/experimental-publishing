@@ -1,6 +1,6 @@
 # Workshop Description: Experimental Publishing and Collaborative Bibliographies 
 
-[#experimental publishing]
+\#experimental publishing\
 
 Radical Open Access II – The Ethics of Care http://radicaloa.co.uk/conferences/roa2/ 
 
