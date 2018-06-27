@@ -6,7 +6,7 @@ Using Markdown - [cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet
 
 Radical Open Access II – The Ethics of Care http://radicaloa.co.uk/conferences/roa2/ 
 
-Hosted by: Centre for Postdigital Cultures
+Hosted by: Centre for Postdigital Cultures<br>
 Where: The Grass, DMLL (3rd floor Lanchester Library), Coventry University<br>
 When: 28th June 2-5pm, 2018
 
