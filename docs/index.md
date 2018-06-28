@@ -22,6 +22,10 @@ See [list](https://github.com/consortium/experimental-publishing/blob/master/doc
 
 See [list](https://github.com/consortium/experimental-publishing/blob/master/docs/resources.md)
 
+Example list:
+
+Worthington, Simon, and Christina Kral. Publication Taxonomy: An Initial Guide to Academic Publishing Types, inside and beyond Academe. [S.l.]: Mute Publishing Ltd, 2014. https://research.consortium.io/docs/a_publication_taxonomy/a-publication-taxonomy.html.
+
 ## Contributor guidelines
 
 ## Notes
