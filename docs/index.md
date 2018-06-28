@@ -18,9 +18,13 @@ When: 28th June 2-5pm, 2018
 
 See [list](https://github.com/consortium/experimental-publishing/blob/master/docs/experiments.md)
 
-## Taxonomy  and examples of experimental publishing
+Zotero list: https://www.zotero.org/groups/255662/hybrid_publishing_group/items/collectionKey/C38XVENX
+
+## Taxonomy and examples of experimental publishing
 
 See [list](https://github.com/consortium/experimental-publishing/blob/master/docs/resources.md)
+
+Zotero list https://www.zotero.org/groups/255662/hybrid_publishing_group/items/collectionKey/25YZ2JG7
 
 Example list:
 
