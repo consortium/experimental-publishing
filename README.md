@@ -4,6 +4,8 @@
 
 Using Markdown - [cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat: 
 
+[Using GitHub](https://try.github.io/)
+
 Radical Open Access II – The Ethics of Care http://radicaloa.co.uk/conferences/roa2/ 
 
 Hosted by: Centre for Postdigital Cultures<br>
