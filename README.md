@@ -6,6 +6,8 @@ Using Markdown - [cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet
 
 [Using GitHub](https://try.github.io/)
 
+Pad: https://public.etherpad-mozilla.org/p/experimental_publishing
+
 Radical Open Access II – The Ethics of Care http://radicaloa.co.uk/conferences/roa2/ 
 
 Hosted by: Centre for Postdigital Cultures<br>
