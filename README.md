@@ -2,7 +2,7 @@
 
 \#experimentalpublishing
 
-[Working docs of the workshop](https://github.com/consortium/experimental-publishing/blob/master/docs/index.md)
+[__Working docs of the workshop__](https://github.com/consortium/experimental-publishing/blob/master/docs/index.md)
 
 Using Markdown - [cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat: 
 
