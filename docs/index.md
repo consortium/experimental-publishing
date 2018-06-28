@@ -14,7 +14,7 @@ When: 28th June 2-5pm, 2018
 
 ## Tools and resources
 
-See [list] (https://github.com/consortium/experimental-publishing/blob/master/docs/experiments.md)
+See [list](https://github.com/consortium/experimental-publishing/blob/master/docs/experiments.md)
 
 ## Taxonomy  and examples of experimental publishing
 
