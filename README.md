@@ -1,5 +1,8 @@
 # Workshop Description: Experimental Publishing and Collaborative Bibliographies 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1319444.svg)](https://doi.org/10.5281/zenodo.1319444)
+
+
 \#experimentalpublishing
 
 [__Working docs of the workshop__](https://github.com/consortium/experimental-publishing/blob/master/docs/index.md)
